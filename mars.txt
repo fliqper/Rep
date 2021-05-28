@@ -1,3 +1,2 @@
-cat mars.txt
-git status
-
+Start notes on Mars as a base
+Two moons may
